@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this code repository, I am going to build and deploy a corona tracker application. Covered topics: React.js, React-Hooks, Chart.js, Material UI and much more.
+
+API used: https://covid19.mathdro.id/api
+
+Setup:
+run npm i && npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
