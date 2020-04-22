@@ -5,9 +5,16 @@ In this code repository, I am going to build and deploy a corona tracker applica
 API used: https://covid19.mathdro.id/api
 
 Setup: <br/>
-...bash
-run npm i && npm start
-...
+```bash
+# Install dependencies
+npm install
+
+# Serve on localhost:3000
+npm start
+
+# Build for production
+npm run build
+```
 
 ## Available Scripts
 
@@ -75,3 +82,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## App Info
+
+### Author
+
+Pratham Singh
+
+
+### Version
+
+1.0.0
+
+### License
+
+This project is licensed under the MIT License
+
