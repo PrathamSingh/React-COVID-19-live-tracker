@@ -4,8 +4,10 @@ In this code repository, I am going to build and deploy a corona tracker applica
 
 API used: https://covid19.mathdro.id/api
 
-Setup:
+Setup: <br/>
+...bash
 run npm i && npm start
+...
 
 ## Available Scripts
 
